@@ -21,6 +21,119 @@ The columns are the following:
   - **Lab**: It means a laboratory class. 
   - **Exam**: It means a exam.
 
+<table width="100%">
+    <tr>
+        <td class="pucpCelda" colspan="3">
+            <font class="pucpTitulo">Cursos y Horarios</font>
+        </td>
+    </tr>
+    <tr>
+        <td class="pucpCriterio" width="10%">Ciclo:</td>
+        <td class="pucpValor">2025-1</td>
+        <td class="pucpValor">&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="pucpCriterio" width="10%">Unidad Académica:</td>
+        <td class="pucpValor">ESTUDIOS GENERALES CIENCIAS</td>
+        <td class="pucpValor" align="right">
+            <a class="pucpLinkMenu" href="javascript:AbreVentanaNuevaTamanioNormal('/pucp/horarios/howcalen/howcalen?accion=MostrarResultadosCalendarioFacultad&ventanaEmergente=1&cicloano=2025&ciclo=01&tipociclo=00&facultad=20',0)">
+                Programación de semestre académico
+            </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<table class="pucpTablaInfo" cellspacing="0" cellpadding="0" width="100%">
+    <tbody>
+        <tr>
+            <td width="2%">&nbsp;</td>
+            <td class="pucpInfo" width="96%">
+                <img src="/pucp/lib/images/i_info.gif">&nbsp;<b>Importante:</b>&nbsp;Debe tener presente que:
+                <ul>
+                    <li>Los cursos de idiomas y aquellos que se han registrado 0 (cero) vacantes, no se muestran.</li>
+                    <li>Al realizar una búsqueda por unidad académica – especialidad solo se mostrarán aquellos cursos que pertenezcan a un plan de estudios vigente de la especialidad.</li>
+                    <li>¿Tiene sesiones virtuales?: El curso-horario tiene registrado sesiones virtuales definidas por la unidad académica. Para saber cuáles son haga clic en la lupa.</li>
+                </ul>
+            </td>
+            <td width="2%">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<table width="100%">
+    <tr>
+        <td class="pucpCeldaTitulo" width="4%">Clave</td>
+        <td class="pucpCeldaTitulo" width="15%">Nombre del curso</td>
+        <td class="pucpCeldaTitulo" align="center" width="3%">Cr.</td>
+        <td class="pucpCeldaTitulo" align="center" width="5%">Tipo Hor.</td>
+        <td class="pucpCeldaTitulo" align="center" width="5%">Hor.</td>
+        <td class="pucpCeldaTitulo" align="center" width="6%">Hor. Aso</td>
+        <td class="pucpCeldaTitulo" align="center" width="4%">Vac.</td>
+        <td class="pucpCeldaTitulo" align="center" width="4%">Vac.Unid</td>
+        <td class="pucpCeldaTitulo" align="center" width="4%">Ins.</td>
+        <td class="pucpCeldaTitulo" align="center" width="7%">Mat.</td>
+        <td class="pucpCeldaTitulo" align="center" width="11%">Profesor</td>
+        <td class="pucpCeldaTitulo" align="center" width="13%">Sesiones</td>
+        <td class="pucpCeldaTitulo" align="center" width="7%">¿Tiene sesiones virtuales?</td>
+    </tr>
+    <tr>
+        <td align="center" class="pucpCeldaGris" rowspan="6">CDR121</td>
+        <td class="pucpCeldaGris" rowspan="6">CIENCIA, ÉTICA Y CRISTIANISMO</td>
+        <td align="center" class="pucpCeldaGris" rowspan="6">3.5</td>
+        <td align="center" class="pucpCeldaGris">Cla</td>
+        <td align="center" class="pucpCeldaGris">0261 <a class="pucpLinkCeldaGris" href="#LEYENDA"></a></td>
+        <td align="center" class="pucpCeldaGris">&nbsp;</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">67</td>
+        <td align="center" class="pucpCeldaGris">0</td>
+        <td class="pucpCeldaGris">Caviglia, A</td>
+        <td class="pucpCeldaGris">MAR 15:00-17:00 C Z214<br>JUE 15:00-16:00 C Z214</td>
+        <td align="center" class="pucpCeldaGris">No</td>
+    </tr>
+    <tr>
+        <td align="center" class="pucpCeldaGris">Cla</td>
+        <td align="center" class="pucpCeldaGris">0262 <a class="pucpLinkCeldaGris" href="#LEYENDA"></a></td>
+        <td class="pucpCeldaGris">&nbsp;</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">64</td>
+        <td align="center" class="pucpCeldaGris">0</td>
+        <td class="pucpCeldaGris">Caviglia, A</td>
+        <td class="pucpCeldaGris">LUN 11:00-13:00 C Z305<br>VIE 11:00-12:00 C Z216</td>
+        <td align="center" class="pucpCeldaGris">No</td>
+    </tr>
+    <tr>
+        <td align="center" class="pucpCeldaGris">Pra</td>
+        <td align="center" class="pucpCeldaGris">0261 <a class="pucpLinkCeldaGris" href="#LEYENDA"></a></td>
+        <td align="center" class="pucpCeldaGris">0261</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">67</td>
+        <td align="center" class="pucpCeldaGris">0</td>
+        <td class="pucpCeldaGris">&nbsp;</td>
+        <td class="pucpCeldaGris">MIE 17:00-19:00 A2 E308<br>MIE 17:00-19:00 A2 E309<br>MIE 17:00-19:00 A2 E315</td>
+        <td align="center" class="pucpCeldaGris">No</td>
+    </tr>
+    <tr>
+        <td align="center" class="pucpCeldaGris">Pra</td>
+        <td align="center" class="pucpCeldaGris">0262 <a class="pucpLinkCeldaGris" href="#LEYENDA"></a></td>
+        <td align="center" class="pucpCeldaGris">0262</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">60</td>
+        <td align="center" class="pucpCeldaGris">64</td>
+        <td align="center" class="pucpCeldaGris">0</td>
+        <td class="pucpCeldaGris">&nbsp;</td>
+        <td class="pucpCeldaGris">MIE 17:00-19:00 B2 E308<br>MIE 17:00-19:00 B2 E309<br>MIE 17:00-19:00 B2 E315</td>
+        <td align="center" class="pucpCeldaGris">No</td>
+    </tr>
+</table>
+
+
 ### Example of Raw Data
 
 Below is an example of on row of the raw data extracted from the PUCP website:
