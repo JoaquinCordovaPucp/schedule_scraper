@@ -21,48 +21,7 @@ The columns are the following:
   - **Lab**: It means a laboratory class. 
   - **Exam**: It means a exam.
 
-<table width="100%">
-    <tr>
-        <td class="pucpCelda" colspan="3">
-            <font class="pucpTitulo">Cursos y Horarios</font>
-        </td>
-    </tr>
-    <tr>
-        <td class="pucpCriterio" width="10%">Ciclo:</td>
-        <td class="pucpValor">2025-1</td>
-        <td class="pucpValor">&nbsp;</td>
-    </tr>
-    <tr>
-        <td class="pucpCriterio" width="10%">Unidad Académica:</td>
-        <td class="pucpValor">ESTUDIOS GENERALES CIENCIAS</td>
-        <td class="pucpValor" align="right">
-            <a class="pucpLinkMenu" href="javascript:AbreVentanaNuevaTamanioNormal('/pucp/horarios/howcalen/howcalen?accion=MostrarResultadosCalendarioFacultad&ventanaEmergente=1&cicloano=2025&ciclo=01&tipociclo=00&facultad=20',0)">
-                Programación de semestre académico
-            </a>
-        </td>
-    </tr>
-</table>
 
-<br>
-
-<table class="pucpTablaInfo" cellspacing="0" cellpadding="0" width="100%">
-    <tbody>
-        <tr>
-            <td width="2%">&nbsp;</td>
-            <td class="pucpInfo" width="96%">
-                <img src="/pucp/lib/images/i_info.gif">&nbsp;<b>Importante:</b>&nbsp;Debe tener presente que:
-                <ul>
-                    <li>Los cursos de idiomas y aquellos que se han registrado 0 (cero) vacantes, no se muestran.</li>
-                    <li>Al realizar una búsqueda por unidad académica – especialidad solo se mostrarán aquellos cursos que pertenezcan a un plan de estudios vigente de la especialidad.</li>
-                    <li>¿Tiene sesiones virtuales?: El curso-horario tiene registrado sesiones virtuales definidas por la unidad académica. Para saber cuáles son haga clic en la lupa.</li>
-                </ul>
-            </td>
-            <td width="2%">&nbsp;</td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
 
 <table width="100%">
     <tr>
